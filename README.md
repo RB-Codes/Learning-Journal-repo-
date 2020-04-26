@@ -11,9 +11,9 @@ A growing midset is a way of thinking, that alows the person who posses it to ah
 
 Here are three ways to remain in growth mindset zone:
 
-1. never stop trying ![Never] (https://p0.pikrepo.com/preview/780/625/person-climbing-on-mountain.jpg)
-2. look for new challenges ![look] (https://i1.pickpik.com/photos/343/867/614/man-boy-blue-holding-thumb.jpg)
-3. ask more quetions everyday ![Ask] (https://i0.hippopx.com/photos/283/600/880/doubt-portrait-doubts-notion-preview.jpg)
+1. never stop trying ![Never](https://p0.pikrepo.com/preview/780/625/person-climbing-on-mountain.jpg)
+2. look for new challenges ![look](https://i1.pickpik.com/photos/343/867/614/man-boy-blue-holding-thumb.jpg)
+3. ask more quetions everyday ![Ask](https://i0.hippopx.com/photos/283/600/880/doubt-portrait-doubts-notion-preview.jpg)
 
 **Thank you** :smile: :+1:
 
