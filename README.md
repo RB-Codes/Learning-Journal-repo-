@@ -6,6 +6,7 @@ Markdown has got many different and unique features, it allows us to insert item
 
 It has also the ability to give references, we can use programmed symbols and tags, also links for repositories are instantly turned into clickable links, to make linking process easy and quick.
 
+I am Rasheed Bader, a coding student with ASAC, I am learning about markdown today, I am happy things are going well :smiley:
 # ***Growth mindset***
 A growing midset is a way of thinking, that alows the person who posses it to ahieve higher levels of understanding as well as expand his imagination and prespective, a person with a constantly developing mindset is a successful person that finds many solutions for every problem.
 
