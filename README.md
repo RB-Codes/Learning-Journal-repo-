@@ -6,4 +6,4 @@ Markdown has got many different and unique features, it allows us to insert item
 
 It has also the ability to give references, we can use programmed symbols and tags, also links for repositories are instantly turned into clickable links, to make linking process easy and quick.
 
-Thank you
+**Thank you** :smile: :+1:
