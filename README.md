@@ -18,4 +18,58 @@ Here are three ways to remain in growth mindset zone:
 
 **Thank you** :smile: :+1:
 
+This is Read 04 
+
+I.	18
+Site attraction what expect
+Organize not messy
+Theories to follow achieve goal 
+Tips for more appealing and professional look
+-	Target audience:
+Age, sex, residency, formality, financial status, marital status, work hours, web usage, access 
+-	Companies:
+Size, position, official or individual usage, budget
+-	Motive and goal are the main two purposes 
+-	Static or updated it has to be for reason, depends on service or information
+-	Make site maps, create a map with divisions or sections of your page
+-	Make the wireframe assumption of required space and how content fits on pages
+-	Sending precise messages through signals using visual hierarchy, grouping and similarity
+•	Visual hierarchy benefits from size, color and unique style making a contrast between main objectives and less important ones.
+•	Grouping can be done with proximity, closure, continuance, white spaces, color or boarders these elements make items look as one as they serve the same purpose  
+-	Navigation, the design must be concise, clear and selective it must contain interactive and continuous content
+
+II.	1
+
+Structure:
+
+HTML is structured with tags, each tag has got an opening and closing. Tags here are also semantic as they carry comprehendible meanings similar to human language i.e. <header> <body> <footer> this indicates how html is an easy and organized way to make websites, we can use this to make good-looking websites, we can see how others perform and reflect on good or successful sites to improve our work, we should keep ourselves UpToDate to avoid mistakes, as programming and web development is a community.
+III.	17
+HTML5 layout:
+
+-	The meaning of the elements
+Older html was different from today’s html it used older tags like <div> now we have <header> and <footer> we also have the <nav> tag along with <article>, <aside>, <section>, <hgroup>, <figure>, <figcaption> all of these make an organized environment for our work
+ 
+-	How useful they are
+New tags are easy to use and beginner friendly, they make users more comfortable, they indicate their literal meaning or their purpose, they provide clearer codes than before.
+
+-	How do we make sure older browsers recognize them?
+Older browsers do not understand block-level elements, also we can get and additional JavaScript to make it work on Internet Explorer 8 for example   
+
+
+
+IV.	8
+
+•	The different versions of HTML and how to indicate which version you are using
+We had html 4 in 1997 to XHTML 1.0 in 2000 also html5 in 2000
+•	How to add comments to your code 
+•	Global attributes, which are attributes that can be used on any element, including the class and id attributes
+•	Elements that are used to group together parts of the page where no other element is suitable
+•	How to embed a page within a page using iframes 
+•	How to add information about the web page using the <meta> element
+•	Adding characters such as angled brackets and copyright symbols
+
+
+
+
+
 
