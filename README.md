@@ -69,6 +69,24 @@ We had html 4 in 1997 to XHTML 1.0 in 2000 also html5 in 2000
 •	Adding characters such as angled brackets and copyright symbols
 
 
+This is Read 05
+
+
+10 
+CSS what is does? How it works? Rules, properties and values
+CSS makes pages attractive; it has the ability to create rules to change how our page looks, from background to titles’ color to paragraphs’ font, these details help us make our work better.
+HTML elements must be modified to look nicer, we can add rules to our elements using a code that contains a selector and a declaration example:
+ h1 { color:red;
+}
+This rule affects how h1 is displayed which in this case is displayed in the color red
+Now these rules can be added internally in a line or in a command using the code <style>, however it is easier to list them in an external css file and link it to our html and we have some commands such as “rel” “href” that help us add links, after adding them now css treats the html elements as they should appear and controls how they look.
+
+11
+
+We can add colors to elements in css using the color name, the hex codes or the RBG values, there is also the color picking tool which works on other factors like hue, saturation and brightness, to pick good colors we have to avoid basic colors, we must imply the factors of contrast and opacity , colors surely bring life to our work, but they also can brighten the visitor’s  day and make them want to stay more on the page,
+
+
+
 
 
 
