@@ -118,6 +118,32 @@ $ git push origin master
 7.	I can always review my work with
 $ cd example
  
+
+ This is Read 02
+
+ Coder's computer:
+to start coding you need a text editor to work with or coding program
+1.	Editors
+text editors come with your original operating system, there is Notepad for example, it is easy to use but it is very basic, this is why they made the Notepad ++ and others, there are also advanced coding programs like VisualStudio which has got many many features, like code completion, extensions and highlighting syntax, and these qualities are what makes a good coding program good, they help the coder in his journey, and make coding modern and easy.
+2.	Terminal
+the terminal or the command line (CMD) is the face of the system, it visualizes commands for us to see basic, it is shown with a prompt
+part of the operating system is what is called the shell it rules how the terminal acts, the one used mostly is called bash
+there also many shortcuts used in the terminal that make our work easier
+3.	Starting out
+to start you can type command
+pwd
+it shows you Print Working Directory which is your location
+to view available directories you can type in
+ls
+Afterwards we need to type “cd” to go in directories and “cd ..” to go out
+4.	Tips 
+•	Everything you use in the terminal is created file, so you can’t type in names of files don’t exist in your work place
+•	You need to care for files extensions because they differ from one to another
+•	You can’t change letter cases for fun Linux won’t work with wrong spelling
+•	Spaces between names are not allowed each space has a meaning
+
+
+
  
 
 
