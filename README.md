@@ -88,6 +88,40 @@ Now these rules can be added internally in a line or in a command using the code
 We can add colors to elements in css using the color name, the hex codes or the RBG values, there is also the color picking tool which works on other factors like hue, saturation and brightness, to pick good colors we have to avoid basic colors, we must imply the factors of contrast and opacity , colors surely bring life to our work, but they also can brighten the visitor’s  day and make them want to stay more on the page.
 
 
+This is Read 03
+
+
+The article by Udemy  taught me how to use git hub here are the steps one by one:
+1.	Username Configuration with commands:
+git config --global user.name
+git config --global user.email
+I add my information for GIT and then I'm through
+I also can check the settings with the command
+$ git config --list
+2.	We usually work with our cloned repositories from Github
+we can use command
+$ git clone https://github.com/Repo
+3.	Changes
+we can see mark on our editor that indicate modified or unchanged work
+4.	Status
+5.	we can check status with the command
+$ git status
+6.	Now the lovely part we always do
+Adding to the work with
+$ git add *
+Then committing our changes 
+$ git commit -m “made change x,y,z”
+$ git commit -a
+
+Then pushing to gethub
+$ git push origin master
+7.	I can always review my work with
+$ cd example
+ 
+ 
+
+
+
 
 
 
