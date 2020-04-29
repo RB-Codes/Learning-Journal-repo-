@@ -7,6 +7,8 @@ Markdown has got many different and unique features, it allows us to insert item
 It has also the ability to give references, we can use programmed symbols and tags, also links for repositories are instantly turned into clickable links, to make linking process easy and quick.
 
 I am Rasheed Bader, a coding student with ASAC, I am learning about markdown today, I am happy things are going well :smiley:
+
+
 # ***Growth mindset***
 A growing midset is a way of thinking, that alows the person who posses it to ahieve higher levels of understanding as well as expand his imagination and prespective, a person with a constantly developing mindset is a successful person that finds many solutions for every problem.
 
@@ -83,7 +85,7 @@ Now these rules can be added internally in a line or in a command using the code
 
 11
 
-We can add colors to elements in css using the color name, the hex codes or the RBG values, there is also the color picking tool which works on other factors like hue, saturation and brightness, to pick good colors we have to avoid basic colors, we must imply the factors of contrast and opacity , colors surely bring life to our work, but they also can brighten the visitor’s  day and make them want to stay more on the page,
+We can add colors to elements in css using the color name, the hex codes or the RBG values, there is also the color picking tool which works on other factors like hue, saturation and brightness, to pick good colors we have to avoid basic colors, we must imply the factors of contrast and opacity , colors surely bring life to our work, but they also can brighten the visitor’s  day and make them want to stay more on the page.
 
 
 
