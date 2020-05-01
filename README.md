@@ -144,7 +144,17 @@ Afterwards we need to type “cd” to go in directories and “cd ..” to go o
 
 
 
- 
+This is Read 06b:
+
+
+Computers:
+•	We use computers everywhere but don’t really know how they work, there are conditions for a machine to meet to be called a computer, signals going on and off in high speed are the key, there are also circuits that handle math and other transporting work, also there are the components that handle input or output, also software which comes from coding is the controller of these components  
+•	Now computers can think, they are capable of taking information in then storing it, processing it and give us results, now input is done with the help of devices like keyboards and mice, storage is on hard disks and processing is with processing chips, which work using algorithms 
+•	Computer circuits use binary language, which is resembled by ones and zeroes, ones for an active wire and zero for an off wire, also this can be interpreted as true and false values, now binary language differs with each process, from text to images and sound there are different things it can do
+•	Circuits handle signals, complicated circuits can do more processes and give more results, depending on one another, there some that refer “and” “or” “not” “add” and so on these circuits also can go further to do math and then to code and do more.
+•	Now both software and hardware work together to help us, and computers are still on developing as we discover new things everyday
+
+
 
 
 
