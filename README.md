@@ -193,6 +193,36 @@ we can call a function with a given this value and arguments provided individual
 A function won’t return multiple values but you can make separate functions
 
 
+This is Read 08:
+
+
+Now we can evaluate a sentence comparing a value in our script to and expected value in order to receive a result which is a Boolean true or false.
+To evaluate we can use
+== which means equal to
+!= which means not equal to 
+=== which means strict equal to
+!== which means strict not equal to
+>which is greater than
+< which is less than
+>= which is greater than or equal to
+<= which is less than or equal to
+The structure is like this (score >= pass)
+Logical operators are a little bit different
+&& which is logical and 
+|| which logical or
+! which is logical not
+Loops
+
+for - loops go through a full code many times
+first line is executed (one time) before the execution of the code block.
+Second line gives the condition for executing the code.
+Third line is executed (every time) if the code was executed.
+The while loop goes through a code as long as a defined condition is true.
+The do/while loop is a kind of the while loop. This loop will execute the code once, right before checking if the condition is true, afterwards it must repeat the loop as long as the condition is true.
+It goes like this 
+for (var i = 0; I < 10; i++) {
+       document.write(i);
+}
 
 
 
