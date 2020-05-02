@@ -155,6 +155,44 @@ Computers:
 •	Now both software and hardware work together to help us, and computers are still on developing as we discover new things everyday
 
 
+This is Read 07:
+
+
+Talking about a script
+A script is a sequence of instructions that our computer follows to execute a task, every time it is activated it uses the same logical series of commands, a computer does not comprehend what is given a computer only solves problems programmatically, to write a good script we have to analyze our mission, divide it into certain tasks and then do it.
+There are many operators in javascript like:
+•	Addition 
+for adding a value to another value
+•	Subtraction 
+to subtract value from another value
+•	Division
+to divide two values from each other
+•	Multiplication 
+to multiply two values using an asterisk 
+•	Increment
+to add one to the current number
+•	Decrement
+to subtract one from the current number
+•	Modulus 
+to divide two values and return the reminder 
+
+Functions:
+A function allows us to assemble some statements together in order to accomplish an objective
+Creating a function:
+1.	We can initiate a Function command name it and then write the statement
+
+2.	Calling a function
+code inside a function won’t be executed at defining the function, the code inside a function is executed when the function is invoked, we can use the term "call a function" instead of "invoke a function", or also say "call upon a function", "start a function", or "execute a function".
+
+3.	Adding variables to add information Function
+parameters are the names listed in the function arguments are the real values passed to (and received by) the function
+
+4.	Calling functions with information
+we can call a function with a given this value and arguments provided individually, to execute them in order
+5.	Getting either a single or multiple value 
+A function won’t return multiple values but you can make separate functions
+
+
 
 
 
