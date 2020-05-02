@@ -20,7 +20,69 @@ Here are three ways to remain in growth mindset zone:
 
 **Thank you** :smile: :+1:
 
-This is Read 04 
+
+
+# **This is Read 02** 
+
+ Coder's computer:
+to start coding you need a text editor to work with or coding program
+1.	Editors
+text editors come with your original operating system, there is Notepad for example, it is easy to use but it is very basic, this is why they made the Notepad ++ and others, there are also advanced coding programs like VisualStudio which has got many many features, like code completion, extensions and highlighting syntax, and these qualities are what makes a good coding program good, they help the coder in his journey, and make coding modern and easy.
+2.	Terminal
+the terminal or the command line (CMD) is the face of the system, it visualizes commands for us to see basic, it is shown with a prompt
+part of the operating system is what is called the shell it rules how the terminal acts, the one used mostly is called bash
+there also many shortcuts used in the terminal that make our work easier
+3.	Starting out
+to start you can type command
+pwd
+it shows you Print Working Directory which is your location
+to view available directories you can type in
+ls
+Afterwards we need to type “cd” to go in directories and “cd ..” to go out
+4.	Tips 
+•	Everything you use in the terminal is created file, so you can’t type in names of files don’t exist in your work place
+•	You need to care for files extensions because they differ from one to another
+•	You can’t change letter cases for fun Linux won’t work with wrong spelling
+•	Spaces between names are not allowed each space has a meaning
+
+
+
+
+# **This is Read 03**
+
+
+The article by Udemy  taught me how to use git hub here are the steps one by one:
+1.	Username Configuration with commands:
+git config --global user.name
+git config --global user.email
+I add my information for GIT and then I'm through
+I also can check the settings with the command
+$ git config --list
+2.	We usually work with our cloned repositories from Github
+we can use command
+$ git clone https://github.com/Repo
+3.	Changes
+we can see mark on our editor that indicate modified or unchanged work
+4.	Status
+5.	we can check status with the command
+$ git status
+6.	Now the lovely part we always do
+Adding to the work with
+$ git add *
+Then committing our changes 
+$ git commit -m “made change x,y,z”
+$ git commit -a
+
+Then pushing to gethub
+$ git push origin master
+7.	I can always review my work with
+$ cd example
+
+
+
+
+
+# **This is Read 04** 
 
 I.	18
 Site attraction what expect
@@ -71,7 +133,7 @@ We had html 4 in 1997 to XHTML 1.0 in 2000 also html5 in 2000
 •	Adding characters such as angled brackets and copyright symbols
 
 
-This is Read 05
+# **This is Read 05**
 
 
 10 
@@ -88,63 +150,13 @@ Now these rules can be added internally in a line or in a command using the code
 We can add colors to elements in css using the color name, the hex codes or the RBG values, there is also the color picking tool which works on other factors like hue, saturation and brightness, to pick good colors we have to avoid basic colors, we must imply the factors of contrast and opacity , colors surely bring life to our work, but they also can brighten the visitor’s  day and make them want to stay more on the page.
 
 
-This is Read 03
 
-
-The article by Udemy  taught me how to use git hub here are the steps one by one:
-1.	Username Configuration with commands:
-git config --global user.name
-git config --global user.email
-I add my information for GIT and then I'm through
-I also can check the settings with the command
-$ git config --list
-2.	We usually work with our cloned repositories from Github
-we can use command
-$ git clone https://github.com/Repo
-3.	Changes
-we can see mark on our editor that indicate modified or unchanged work
-4.	Status
-5.	we can check status with the command
-$ git status
-6.	Now the lovely part we always do
-Adding to the work with
-$ git add *
-Then committing our changes 
-$ git commit -m “made change x,y,z”
-$ git commit -a
-
-Then pushing to gethub
-$ git push origin master
-7.	I can always review my work with
-$ cd example
  
 
- This is Read 02
-
- Coder's computer:
-to start coding you need a text editor to work with or coding program
-1.	Editors
-text editors come with your original operating system, there is Notepad for example, it is easy to use but it is very basic, this is why they made the Notepad ++ and others, there are also advanced coding programs like VisualStudio which has got many many features, like code completion, extensions and highlighting syntax, and these qualities are what makes a good coding program good, they help the coder in his journey, and make coding modern and easy.
-2.	Terminal
-the terminal or the command line (CMD) is the face of the system, it visualizes commands for us to see basic, it is shown with a prompt
-part of the operating system is what is called the shell it rules how the terminal acts, the one used mostly is called bash
-there also many shortcuts used in the terminal that make our work easier
-3.	Starting out
-to start you can type command
-pwd
-it shows you Print Working Directory which is your location
-to view available directories you can type in
-ls
-Afterwards we need to type “cd” to go in directories and “cd ..” to go out
-4.	Tips 
-•	Everything you use in the terminal is created file, so you can’t type in names of files don’t exist in your work place
-•	You need to care for files extensions because they differ from one to another
-•	You can’t change letter cases for fun Linux won’t work with wrong spelling
-•	Spaces between names are not allowed each space has a meaning
+ 
 
 
-
-This is Read 06b:
+# **This is Read 06b:**
 
 
 Computers:
@@ -155,7 +167,7 @@ Computers:
 •	Now both software and hardware work together to help us, and computers are still on developing as we discover new things everyday
 
 
-This is Read 07:
+# **This is Read 07:**
 
 
 Talking about a script
@@ -193,7 +205,7 @@ we can call a function with a given this value and arguments provided individual
 A function won’t return multiple values but you can make separate functions
 
 
-This is Read 08:
+# **This is Read 08:**
 
 
 Now we can evaluate a sentence comparing a value in our script to and expected value in order to receive a result which is a Boolean true or false.
